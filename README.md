@@ -29,7 +29,7 @@ Add mathapp to installed apps in setting.py and add necessary changes.
 ## PROGRAM :
 
 ### area.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,7 @@ urlpatterns = [
     path('',views.areacalculation,name="areaoftriangleroot")
 ]
 
-
+```
 ## OUTPUT:
 
 <img width="465" alt="h1" src="https://user-images.githubusercontent.com/94184828/154900210-759643b6-d691-43d2-ae60-8e1f29568e79.PNG">
